@@ -1,0 +1,3 @@
+Algoritmo: quicksort
+Tiempo_ms: 7.71248
+Memoria_KB: 0

@@ -1,0 +1,3 @@
+Algoritmo: patiencesort
+Tiempo_ms: 72.2934
+Memoria_KB: 1056

@@ -1,0 +1,3 @@
+Algoritmo: mergesort
+Tiempo_ms: 7.44904
+Memoria_KB: 536
