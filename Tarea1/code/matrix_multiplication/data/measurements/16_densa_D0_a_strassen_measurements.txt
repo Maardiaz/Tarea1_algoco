@@ -1,0 +1,3 @@
+Algoritmo: strassen
+Tiempo_ms: 1.07347
+Memoria_KB: 0

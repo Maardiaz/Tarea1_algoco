@@ -1,0 +1,3 @@
+Algoritmo: naive
+Tiempo_ms: 0.004583
+Memoria_KB: 0
